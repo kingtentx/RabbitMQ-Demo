@@ -1,0 +1,7 @@
+/RabbitMQ-Common/obj
+/RabbitMQ-Consumer/obj
+/RabbitMQ-Producer/obj
+/RabbitMQ-Producer/bin
+/RabbitMQ-Consumer/bin
+/RabbitMQ-Common/bin
+/.vs/RabbitMQ
